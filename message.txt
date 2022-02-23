@@ -1,0 +1,5 @@
+- Access and use your computer’s shell (terminal)
+- Learn basic commands to navigate and manage
+  your files and folders.
+- Learn commands to perform useful operations.
+
